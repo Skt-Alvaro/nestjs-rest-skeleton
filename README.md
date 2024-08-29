@@ -1,4 +1,4 @@
-# NestJS-Skeleton
+# NestJS-REST-Skeleton
 
 This repository contains a basic skeleton for a project using TypeScript, NestJS, TypeORM, PostgreSQL, and JWT for authentication.
 
