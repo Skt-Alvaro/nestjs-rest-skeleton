@@ -12,8 +12,8 @@ This repository contains a basic skeleton for a project using TypeScript, NestJS
 
 ## Prerequisites
 
-- Node.js (v14 o superior)
-- PostgreSQL (v13 o superior)
+- Node.js (v14 or higher)
+- PostgreSQL (v13 or higher)
 - Yarn
 
 ## Installation
